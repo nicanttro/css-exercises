@@ -1,0 +1,18 @@
+
+/* This works!
+
+div p {
+    background-color: #ffff00;
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/* This works as well! */
+.container .text {
+    background-color: rgb(255, 255, 0);
+    color: hsl(0, 100%, 50%);
+    font-size: 20px;
+    text-align: center;
+}
